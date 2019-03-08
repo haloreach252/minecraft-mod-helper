@@ -1,0 +1,5 @@
+D:\Coding\C# Projects\MinecraftModdingCreationDLL\MinecraftModdingCreationDLL\bin\Debug\MinecraftModdingCreationDLL.dll
+D:\Coding\C# Projects\MinecraftModdingCreationDLL\MinecraftModdingCreationDLL\bin\Debug\MinecraftModdingCreationDLL.pdb
+D:\Coding\C# Projects\MinecraftModdingCreationDLL\MinecraftModdingCreationDLL\obj\Debug\MinecraftModdingCreationDLL.csprojResolveAssemblyReference.cache
+D:\Coding\C# Projects\MinecraftModdingCreationDLL\MinecraftModdingCreationDLL\obj\Debug\MinecraftModdingCreationDLL.dll
+D:\Coding\C# Projects\MinecraftModdingCreationDLL\MinecraftModdingCreationDLL\obj\Debug\MinecraftModdingCreationDLL.pdb

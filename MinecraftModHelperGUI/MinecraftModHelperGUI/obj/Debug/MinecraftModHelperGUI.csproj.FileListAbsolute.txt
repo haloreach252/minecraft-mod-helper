@@ -1,0 +1,11 @@
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\bin\Debug\MinecraftModHelperGUI.exe.config
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\bin\Debug\MinecraftModHelperGUI.exe
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\bin\Debug\MinecraftModHelperGUI.pdb
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.csprojResolveAssemblyReference.cache
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.Form1.resources
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.Form2.resources
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.Properties.Resources.resources
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.csproj.GenerateResource.Cache
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.exe
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.pdb
+D:\Coding\C# Projects\MinecraftModHelperGUI\MinecraftModHelperGUI\obj\Debug\MinecraftModHelperGUI.Form3.resources

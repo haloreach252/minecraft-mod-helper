@@ -1,0 +1,9 @@
+D:\Coding\C# Projects\MinecraftModHelper\MinecraftModHelper\bin\Debug\MinecraftModHelper.exe.config
+D:\Coding\C# Projects\MinecraftModHelper\MinecraftModHelper\bin\Debug\MinecraftModHelper.exe
+D:\Coding\C# Projects\MinecraftModHelper\MinecraftModHelper\bin\Debug\MinecraftModHelper.pdb
+D:\Coding\C# Projects\MinecraftModHelper\MinecraftModHelper\obj\Debug\MinecraftModHelper.csprojResolveAssemblyReference.cache
+D:\Coding\C# Projects\MinecraftModHelper\MinecraftModHelper\obj\Debug\MinecraftModHelper.exe
+D:\Coding\C# Projects\MinecraftModHelper\MinecraftModHelper\obj\Debug\MinecraftModHelper.pdb
+C:\Users\Nathan\Desktop\MCModHelper\MinecraftModHelper.exe.config
+C:\Users\Nathan\Desktop\MCModHelper\MinecraftModHelper.exe
+C:\Users\Nathan\Desktop\MCModHelper\MinecraftModHelper.pdb
